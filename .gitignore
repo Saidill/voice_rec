@@ -7,3 +7,4 @@ voice_rec/
 coba.py
 realtime_stt.py
 audio_duration_distribution.png
+.gitignore
