@@ -1,0 +1,9 @@
+__pycache__/
+dataset/
+logs/
+models/
+processed/
+voice_rec/
+coba.py
+realtime_stt.py
+audio_duration_distribution.png
